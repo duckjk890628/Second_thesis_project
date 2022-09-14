@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: d74c6841d7148b84dbb77d51d8548850
+timeCreated: 1520331218
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MainGate
+    100004: ModularCorner
+    100006: ModularCorner1
+    100008: ModularLeftendCap
+    100010: ModularRightEndCap
+    100012: ModularStairs
+    100014: ModularStairs1
+    100016: ModularStairs2
+    100018: ModularStairs3
+    100020: ModularStairs4
+    100022: ModularStairs5
+    100024: ModularStairs6
+    100026: ModularStairs7
+    100028: ModularStraight
+    100030: ModularStraight1
+    100032: ModularStraight10
+    100034: ModularStraight11
+    100036: ModularStraight2
+    100038: ModularStraight3
+    100040: ModularStraight4
+    100042: ModularStraight5
+    100044: ModularStraight6
+    100046: ModularStraight7
+    100048: ModularStraight8
+    100050: ModularStraight9
+    400000: //RootNode
+    400002: MainGate
+    400004: ModularCorner
+    400006: ModularCorner1
+    400008: ModularLeftendCap
+    400010: ModularRightEndCap
+    400012: ModularStairs
+    400014: ModularStairs1
+    400016: ModularStairs2
+    400018: ModularStairs3
+    400020: ModularStairs4
+    400022: ModularStairs5
+    400024: ModularStairs6
+    400026: ModularStairs7
+    400028: ModularStraight
+    400030: ModularStraight1
+    400032: ModularStraight10
+    400034: ModularStraight11
+    400036: ModularStraight2
+    400038: ModularStraight3
+    400040: ModularStraight4
+    400042: ModularStraight5
+    400044: ModularStraight6
+    400046: ModularStraight7
+    400048: ModularStraight8
+    400050: ModularStraight9
+    2300000: MainGate
+    2300002: ModularCorner
+    2300004: ModularCorner1
+    2300006: ModularLeftendCap
+    2300008: ModularRightEndCap
+    2300010: ModularStairs
+    2300012: ModularStairs1
+    2300014: ModularStairs2
+    2300016: ModularStairs3
+    2300018: ModularStairs4
+    2300020: ModularStairs5
+    2300022: ModularStairs6
+    2300024: ModularStairs7
+    2300026: ModularStraight
+    2300028: ModularStraight1
+    2300030: ModularStraight10
+    2300032: ModularStraight11
+    2300034: ModularStraight2
+    2300036: ModularStraight3
+    2300038: ModularStraight4
+    2300040: ModularStraight5
+    2300042: ModularStraight6
+    2300044: ModularStraight7
+    2300046: ModularStraight8
+    2300048: ModularStraight9
+    3300000: MainGate
+    3300002: ModularCorner
+    3300004: ModularCorner1
+    3300006: ModularLeftendCap
+    3300008: ModularRightEndCap
+    3300010: ModularStairs
+    3300012: ModularStairs1
+    3300014: ModularStairs2
+    3300016: ModularStairs3
+    3300018: ModularStairs4
+    3300020: ModularStairs5
+    3300022: ModularStairs6
+    3300024: ModularStairs7
+    3300026: ModularStraight
+    3300028: ModularStraight1
+    3300030: ModularStraight10
+    3300032: ModularStraight11
+    3300034: ModularStraight2
+    3300036: ModularStraight3
+    3300038: ModularStraight4
+    3300040: ModularStraight5
+    3300042: ModularStraight6
+    3300044: ModularStraight7
+    3300046: ModularStraight8
+    3300048: ModularStraight9
+    4300000: MainGate
+    4300002: ModularStraight
+    4300004: ModularStraight1
+    4300006: ModularStraight2
+    4300008: ModularStraight3
+    4300010: ModularStraight4
+    4300012: ModularStraight5
+    4300014: ModularStraight6
+    4300016: ModularStraight7
+    4300018: ModularStraight8
+    4300020: ModularStraight9
+    4300022: ModularStraight10
+    4300024: ModularStraight11
+    4300026: ModularCorner
+    4300028: ModularStairs
+    4300030: ModularStairs1
+    4300032: ModularStairs2
+    4300034: ModularStairs3
+    4300036: ModularStairs4
+    4300038: ModularStairs5
+    4300040: ModularStairs6
+    4300042: ModularStairs7
+    4300044: ModularRightEndCap
+    4300046: ModularCorner1
+    4300048: ModularLeftendCap
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BrownWoodShader
+    second: {fileID: 2100000, guid: e66411f6b15e9034dba062a73fb39dd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConcreteShader
+    second: {fileID: 2100000, guid: a8e04400e49688248a9960d7d130818e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofingShader
+    second: {fileID: 2100000, guid: 20bf1574edf345345aa5fdec01a5ed6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhiteWoodShader
+    second: {fileID: 2100000, guid: 74facf325e981aa4cae81ea767009d20, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

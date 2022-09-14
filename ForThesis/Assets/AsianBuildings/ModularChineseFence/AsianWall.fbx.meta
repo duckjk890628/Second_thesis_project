@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 9e1e75077680b8d4cbe02adb802d5650
+timeCreated: 1521050141
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AsianWall
+    100004: AsianWall10
+    100006: AsianWall11
+    100008: AsianWall12
+    100010: AsianWall5
+    100012: AsianWall6
+    100014: AsianWall7
+    100016: AsianWall8
+    100018: AsianWall9
+    100020: AsianWallGate
+    400000: //RootNode
+    400002: AsianWall
+    400004: AsianWall10
+    400006: AsianWall11
+    400008: AsianWall12
+    400010: AsianWall5
+    400012: AsianWall6
+    400014: AsianWall7
+    400016: AsianWall8
+    400018: AsianWall9
+    400020: AsianWallGate
+    2300000: AsianWall
+    2300002: AsianWall10
+    2300004: AsianWall11
+    2300006: AsianWall12
+    2300008: AsianWall5
+    2300010: AsianWall6
+    2300012: AsianWall7
+    2300014: AsianWall8
+    2300016: AsianWall9
+    2300018: AsianWallGate
+    3300000: AsianWall
+    3300002: AsianWall10
+    3300004: AsianWall11
+    3300006: AsianWall12
+    3300008: AsianWall5
+    3300010: AsianWall6
+    3300012: AsianWall7
+    3300014: AsianWall8
+    3300016: AsianWall9
+    3300018: AsianWallGate
+    4300000: AsianWall
+    4300002: AsianWallGate
+    4300004: AsianWall5
+    4300006: AsianWall6
+    4300008: AsianWall7
+    4300010: AsianWall8
+    4300012: AsianWall9
+    4300014: AsianWall10
+    4300016: AsianWall11
+    4300018: AsianWall12
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodDarkSub
+    second: {fileID: 2100000, guid: c6610236cde7fa64ba51cdc1041561b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodWhiteSub
+    second: {fileID: 2100000, guid: 264a1c7b6081f704c867341b1618eeb0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

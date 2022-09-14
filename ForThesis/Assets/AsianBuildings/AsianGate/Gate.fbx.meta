@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: b5040a9996c88274e99afb307e921260
+timeCreated: 1521042099
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Gate1_MSH_MeshPart0
+    100004: Gate1_MSH_MeshPart1
+    100006: Gate_MSH_MeshPart0
+    100008: Gate_MSH_MeshPart1
+    400000: //RootNode
+    400002: Gate1_MSH_MeshPart0
+    400004: Gate1_MSH_MeshPart1
+    400006: Gate_MSH_MeshPart0
+    400008: Gate_MSH_MeshPart1
+    2300000: Gate1_MSH_MeshPart0
+    2300002: Gate1_MSH_MeshPart1
+    2300004: Gate_MSH_MeshPart0
+    2300006: Gate_MSH_MeshPart1
+    3300000: Gate1_MSH_MeshPart0
+    3300002: Gate1_MSH_MeshPart1
+    3300004: Gate_MSH_MeshPart0
+    3300006: Gate_MSH_MeshPart1
+    4300000: Gate1_MSH_MeshPart0
+    4300002: Gate1_MSH_MeshPart1
+    4300004: Gate_MSH_MeshPart0
+    4300006: Gate_MSH_MeshPart1
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BrownWoodSub
+    second: {fileID: 2100000, guid: bf93bc57f171f5048b6331a2d01fb02a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConcreteSub
+    second: {fileID: 2100000, guid: 23fbb8c4710cb7b40bba48d76f2c029e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FabricSub
+    second: {fileID: 2100000, guid: 66b03699308ee6c408d0384a04961f53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FloorSub
+    second: {fileID: 2100000, guid: a28ef0d9d7e0cff408bf50f83e07c43b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofingSub
+    second: {fileID: 2100000, guid: 9ebe105b4a8918e46b9f40168d37616b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StoneSub
+    second: {fileID: 2100000, guid: d69ca60692214d44b8592f73f0bd04b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhiteWoodSub
+    second: {fileID: 2100000, guid: 6f809425edb5edb44b1811ace72e04a9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
